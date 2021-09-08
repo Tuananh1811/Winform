@@ -1,0 +1,6 @@
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\PERSON\bin\Debug\PERSON.exe.config
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\PERSON\bin\Debug\PERSON.exe
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\PERSON\bin\Debug\PERSON.pdb
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\PERSON\obj\Debug\PERSON.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\PERSON\obj\Debug\PERSON.exe
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\PERSON\obj\Debug\PERSON.pdb

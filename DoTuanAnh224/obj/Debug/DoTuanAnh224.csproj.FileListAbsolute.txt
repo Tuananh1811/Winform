@@ -1,0 +1,10 @@
+C:\Users\HP Envy\Documents\Windows\DoTuanAnh224\bin\Debug\DoTuanAnh224.exe.config
+C:\Users\HP Envy\Documents\Windows\DoTuanAnh224\bin\Debug\DoTuanAnh224.exe
+C:\Users\HP Envy\Documents\Windows\DoTuanAnh224\bin\Debug\DoTuanAnh224.pdb
+C:\Users\HP Envy\Documents\Windows\DoTuanAnh224\obj\Debug\DoTuanAnh224.csprojAssemblyReference.cache
+C:\Users\HP Envy\Documents\Windows\DoTuanAnh224\obj\Debug\DoTuanAnh224.Form1.resources
+C:\Users\HP Envy\Documents\Windows\DoTuanAnh224\obj\Debug\DoTuanAnh224.Properties.Resources.resources
+C:\Users\HP Envy\Documents\Windows\DoTuanAnh224\obj\Debug\DoTuanAnh224.csproj.GenerateResource.cache
+C:\Users\HP Envy\Documents\Windows\DoTuanAnh224\obj\Debug\DoTuanAnh224.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Documents\Windows\DoTuanAnh224\obj\Debug\DoTuanAnh224.exe
+C:\Users\HP Envy\Documents\Windows\DoTuanAnh224\obj\Debug\DoTuanAnh224.pdb

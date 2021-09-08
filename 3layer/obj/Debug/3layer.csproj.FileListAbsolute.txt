@@ -1,0 +1,10 @@
+C:\Users\HP Envy\Documents\Windows\3layer\bin\Debug\3layer.exe.config
+C:\Users\HP Envy\Documents\Windows\3layer\bin\Debug\3layer.exe
+C:\Users\HP Envy\Documents\Windows\3layer\bin\Debug\3layer.pdb
+C:\Users\HP Envy\Documents\Windows\3layer\obj\Debug\3layer.csprojAssemblyReference.cache
+C:\Users\HP Envy\Documents\Windows\3layer\obj\Debug\_3layer.Form1.resources
+C:\Users\HP Envy\Documents\Windows\3layer\obj\Debug\_3layer.Properties.Resources.resources
+C:\Users\HP Envy\Documents\Windows\3layer\obj\Debug\3layer.csproj.GenerateResource.cache
+C:\Users\HP Envy\Documents\Windows\3layer\obj\Debug\3layer.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Documents\Windows\3layer\obj\Debug\3layer.exe
+C:\Users\HP Envy\Documents\Windows\3layer\obj\Debug\3layer.pdb

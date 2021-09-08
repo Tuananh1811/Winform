@@ -1,0 +1,7 @@
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\Buoi3(OOP)\bin\Debug\Buoi3(OOP).exe.config
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\Buoi3(OOP)\bin\Debug\Buoi3(OOP).exe
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\Buoi3(OOP)\bin\Debug\Buoi3(OOP).pdb
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\Buoi3(OOP)\obj\Debug\NhanVien.csprojAssemblyReference.cache
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\Buoi3(OOP)\obj\Debug\NhanVien.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\Buoi3(OOP)\obj\Debug\Buoi3(OOP).exe
+C:\Users\HP Envy\Documents\Windows\Buoi3(OOP)\Buoi3(OOP)\obj\Debug\Buoi3(OOP).pdb

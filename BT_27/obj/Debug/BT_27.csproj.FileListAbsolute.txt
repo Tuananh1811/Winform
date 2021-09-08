@@ -1,0 +1,10 @@
+C:\Users\HP Envy\Documents\Windows\BT_27\bin\Debug\BT_27.exe.config
+C:\Users\HP Envy\Documents\Windows\BT_27\bin\Debug\BT_27.exe
+C:\Users\HP Envy\Documents\Windows\BT_27\bin\Debug\BT_27.pdb
+C:\Users\HP Envy\Documents\Windows\BT_27\obj\Debug\BT_27.csprojAssemblyReference.cache
+C:\Users\HP Envy\Documents\Windows\BT_27\obj\Debug\BT_27.Form1.resources
+C:\Users\HP Envy\Documents\Windows\BT_27\obj\Debug\BT_27.Properties.Resources.resources
+C:\Users\HP Envy\Documents\Windows\BT_27\obj\Debug\BT_27.csproj.GenerateResource.cache
+C:\Users\HP Envy\Documents\Windows\BT_27\obj\Debug\BT_27.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Documents\Windows\BT_27\obj\Debug\BT_27.exe
+C:\Users\HP Envy\Documents\Windows\BT_27\obj\Debug\BT_27.pdb

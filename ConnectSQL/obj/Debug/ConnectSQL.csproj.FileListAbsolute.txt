@@ -1,0 +1,10 @@
+C:\Users\HP Envy\Documents\Windows\ConnectSQL\bin\Debug\ConnectSQL.exe.config
+C:\Users\HP Envy\Documents\Windows\ConnectSQL\bin\Debug\ConnectSQL.exe
+C:\Users\HP Envy\Documents\Windows\ConnectSQL\bin\Debug\ConnectSQL.pdb
+C:\Users\HP Envy\Documents\Windows\ConnectSQL\obj\Debug\ConnectSQL.csprojAssemblyReference.cache
+C:\Users\HP Envy\Documents\Windows\ConnectSQL\obj\Debug\ConnectSQL.Form1.resources
+C:\Users\HP Envy\Documents\Windows\ConnectSQL\obj\Debug\ConnectSQL.Properties.Resources.resources
+C:\Users\HP Envy\Documents\Windows\ConnectSQL\obj\Debug\ConnectSQL.csproj.GenerateResource.cache
+C:\Users\HP Envy\Documents\Windows\ConnectSQL\obj\Debug\ConnectSQL.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Documents\Windows\ConnectSQL\obj\Debug\ConnectSQL.exe
+C:\Users\HP Envy\Documents\Windows\ConnectSQL\obj\Debug\ConnectSQL.pdb

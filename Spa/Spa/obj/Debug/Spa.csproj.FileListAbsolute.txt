@@ -1,0 +1,10 @@
+C:\Users\HP Envy\Documents\Windows\Spa\Spa\bin\Debug\Spa.exe.config
+C:\Users\HP Envy\Documents\Windows\Spa\Spa\bin\Debug\Spa.exe
+C:\Users\HP Envy\Documents\Windows\Spa\Spa\bin\Debug\Spa.pdb
+C:\Users\HP Envy\Documents\Windows\Spa\Spa\obj\Debug\Spa.csprojAssemblyReference.cache
+C:\Users\HP Envy\Documents\Windows\Spa\Spa\obj\Debug\Spa.Form1.resources
+C:\Users\HP Envy\Documents\Windows\Spa\Spa\obj\Debug\Spa.Properties.Resources.resources
+C:\Users\HP Envy\Documents\Windows\Spa\Spa\obj\Debug\Spa.csproj.GenerateResource.cache
+C:\Users\HP Envy\Documents\Windows\Spa\Spa\obj\Debug\Spa.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Documents\Windows\Spa\Spa\obj\Debug\Spa.exe
+C:\Users\HP Envy\Documents\Windows\Spa\Spa\obj\Debug\Spa.pdb

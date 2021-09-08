@@ -1,0 +1,30 @@
+D:\KyHeNam3\Windows\BTVN_Buoi10\BTVN_Buoi10\bin\Debug\BTVN_Buoi10.exe.config
+D:\KyHeNam3\Windows\BTVN_Buoi10\BTVN_Buoi10\bin\Debug\BTVN_Buoi10.exe
+D:\KyHeNam3\Windows\BTVN_Buoi10\BTVN_Buoi10\bin\Debug\BTVN_Buoi10.pdb
+D:\KyHeNam3\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.csproj.AssemblyReference.cache
+D:\KyHeNam3\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.Form1.resources
+D:\KyHeNam3\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.Properties.Resources.resources
+D:\KyHeNam3\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.csproj.GenerateResource.cache
+D:\KyHeNam3\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.csproj.CoreCompileInputs.cache
+D:\KyHeNam3\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.exe
+D:\KyHeNam3\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.pdb
+C:\Users\HP Envy\Downloads\BTVN_Buoi10\BTVN_Buoi10\BTVN_Buoi10\bin\Debug\BTVN_Buoi10.exe.config
+C:\Users\HP Envy\Downloads\BTVN_Buoi10\BTVN_Buoi10\BTVN_Buoi10\bin\Debug\BTVN_Buoi10.exe
+C:\Users\HP Envy\Downloads\BTVN_Buoi10\BTVN_Buoi10\BTVN_Buoi10\bin\Debug\BTVN_Buoi10.pdb
+C:\Users\HP Envy\Downloads\BTVN_Buoi10\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.csprojAssemblyReference.cache
+C:\Users\HP Envy\Downloads\BTVN_Buoi10\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.Form1.resources
+C:\Users\HP Envy\Downloads\BTVN_Buoi10\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.Properties.Resources.resources
+C:\Users\HP Envy\Downloads\BTVN_Buoi10\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.csproj.GenerateResource.cache
+C:\Users\HP Envy\Downloads\BTVN_Buoi10\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Downloads\BTVN_Buoi10\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.exe
+C:\Users\HP Envy\Downloads\BTVN_Buoi10\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.pdb
+C:\Users\HP Envy\Documents\Windows\BTVN_Buoi10\BTVN_Buoi10\bin\Debug\BTVN_Buoi10.exe.config
+C:\Users\HP Envy\Documents\Windows\BTVN_Buoi10\BTVN_Buoi10\bin\Debug\BTVN_Buoi10.exe
+C:\Users\HP Envy\Documents\Windows\BTVN_Buoi10\BTVN_Buoi10\bin\Debug\BTVN_Buoi10.pdb
+C:\Users\HP Envy\Documents\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.csprojAssemblyReference.cache
+C:\Users\HP Envy\Documents\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.Form1.resources
+C:\Users\HP Envy\Documents\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.Properties.Resources.resources
+C:\Users\HP Envy\Documents\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.csproj.GenerateResource.cache
+C:\Users\HP Envy\Documents\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Documents\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.exe
+C:\Users\HP Envy\Documents\Windows\BTVN_Buoi10\BTVN_Buoi10\obj\Debug\BTVN_Buoi10.pdb

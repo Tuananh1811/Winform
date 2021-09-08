@@ -1,0 +1,11 @@
+C:\Users\HP Envy\Documents\Windows\AdvancedForm\bin\Debug\AdvancedForm.exe.config
+C:\Users\HP Envy\Documents\Windows\AdvancedForm\bin\Debug\AdvancedForm.exe
+C:\Users\HP Envy\Documents\Windows\AdvancedForm\bin\Debug\AdvancedForm.pdb
+C:\Users\HP Envy\Documents\Windows\AdvancedForm\obj\Debug\AdvancedForm.csprojAssemblyReference.cache
+C:\Users\HP Envy\Documents\Windows\AdvancedForm\obj\Debug\AdvancedForm.Form1.resources
+C:\Users\HP Envy\Documents\Windows\AdvancedForm\obj\Debug\AdvancedForm.Properties.Resources.resources
+C:\Users\HP Envy\Documents\Windows\AdvancedForm\obj\Debug\AdvancedForm.csproj.GenerateResource.cache
+C:\Users\HP Envy\Documents\Windows\AdvancedForm\obj\Debug\AdvancedForm.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Documents\Windows\AdvancedForm\obj\Debug\AdvancedForm.exe
+C:\Users\HP Envy\Documents\Windows\AdvancedForm\obj\Debug\AdvancedForm.pdb
+C:\Users\HP Envy\Documents\Windows\AdvancedForm\obj\Debug\AdvancedForm.ChilForm.resources

@@ -1,0 +1,10 @@
+C:\Users\HP Envy\Documents\Windows\ontap\ontap\bin\Debug\ontap.exe.config
+C:\Users\HP Envy\Documents\Windows\ontap\ontap\bin\Debug\ontap.exe
+C:\Users\HP Envy\Documents\Windows\ontap\ontap\bin\Debug\ontap.pdb
+C:\Users\HP Envy\Documents\Windows\ontap\ontap\obj\Debug\ontap.csprojAssemblyReference.cache
+C:\Users\HP Envy\Documents\Windows\ontap\ontap\obj\Debug\ontap.Form1.resources
+C:\Users\HP Envy\Documents\Windows\ontap\ontap\obj\Debug\ontap.Properties.Resources.resources
+C:\Users\HP Envy\Documents\Windows\ontap\ontap\obj\Debug\ontap.csproj.GenerateResource.cache
+C:\Users\HP Envy\Documents\Windows\ontap\ontap\obj\Debug\ontap.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Documents\Windows\ontap\ontap\obj\Debug\ontap.exe
+C:\Users\HP Envy\Documents\Windows\ontap\ontap\obj\Debug\ontap.pdb
